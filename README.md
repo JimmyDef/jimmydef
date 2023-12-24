@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Jimmy Defains
+=====================================================================================================================================
 
-<!--
-**JimmyDef/jimmydef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur d'application React
+-------------------------
 
-Here are some ideas to get you started:
+J'apprends le code depuis bientot 2 ans après une reconversion. 
+Je perfectionne mes connaissances de React et de Node.js avec OpenClassRooms à proximité de Paris depuis chez moi.
+J'ai hate de rejoindre des développeurs séniors pour travailler avec sur de nouveaux projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*   🌍  Je suis situé à Orly (94)
+*   🖥️  Mon futur portfolio: [jimmydef.net](http://jimmydef.net)
+*   ✉️  Vous pouvez me contacter: [jimmydef@outlook.fr](mailto:jimmydef@outlook.fr)
+*   🚀  Mon projet perso actuel: [MyFallGuysApp](http://https://github.com/JimmyDef/Projet-FallGuys)
+
+                 
+                  
+             
