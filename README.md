@@ -8,9 +8,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Développeur d'application React
 -------------------------
 
-J'apprends le code depuis bientot 2 ans après une reconversion. 
-Je perfectionne mes connaissances de React et de Node.js avec OpenClassRooms à proximité de Paris depuis chez moi.
-J'ai hate de rejoindre des développeurs séniors pour travailler avec sur de nouveaux projets
+
+J'apprends la programmation depuis bientôt 2 ans après une reconversion professionnelle. 
+Actuellement, je perfectionne mes connaissances en React et Node.js grâce à OpenClassRooms, que je suis depuis chez moi, près de Paris. 
+J'ai hâte de rejoindre une équipe de développeurs seniors pour collaborer sur de nouveaux projets.
 
 
 *   🌍  Je suis situé à Orly (94)
