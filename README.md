@@ -17,7 +17,7 @@ J'ai hâte de rejoindre une équipe de développeurs seniors pour collaborer sur
 *   🌍  Je suis situé à Orly (94)
 *   🖥️  Mon futur portfolio: [jimmydef.net](http://jimmydef.net)
 *   ✉️  Vous pouvez me contacter: [jimmydef@outlook.fr](mailto:jimmydef@outlook.fr)
-*   🚀  Mon projet perso actuel: [MyFallGuysApp](https://github.com/JimmyDef/Projet-QRPlans)
+*   🚀  Mon projet perso actuel: [QR-Plans](https://github.com/JimmyDef/Projet-QRPlans)
 
 
 
